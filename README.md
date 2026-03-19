@@ -1,9 +1,7 @@
 # Hi, I’m Sivakumar 👋
 
 I build data-driven product experiences that actually move metrics.
-
 Over the last 13+ years, I’ve worked across BFSI, SaaS, and recently EdTech focusing on AI-enabled products, product analytics, and conversion optimisation at scale.
-
 
 ## What I care about
 
@@ -16,7 +14,6 @@ The kind where:
 
 That’s where I spend most of my time—connecting data, product thinking, and user behaviour.
 
-
 ## What I’ve done so far
 
 - Improved conversion by **7% on a 1M+ MAU platform** through funnel analysis and targeted fixes  
@@ -24,7 +21,6 @@ That’s where I spend most of my time—connecting data, product thinking, and 
 - Identified drop-offs and improved **user retention + booking completion flows**  
 - Worked on **AI-enabled product systems** with model monitoring (drift, precision/recall, latency)  
 - Led cross-functional execution across product, data, and engineering teams  
-
 
 ## What I’m building now
 
@@ -67,9 +63,8 @@ AWS, Azure, Microservices, CI/CD, Kubernetes
 I enjoy talking to users, breaking down problems, and figuring out what actually matters.
 
 And maybe it’s just me, but I’ve always believed:
-" Good products aren’t built from features. They’re built from understanding behaviour. "
 
----
+" Good products aren’t built from features. They’re built from understanding behaviour. "
 
 ## Let’s connect
 
