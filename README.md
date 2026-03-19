@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Sivakumar — I build AI-powered product experiences.
 
-<!--
-**sivakumar012/sivakumar012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on:
+- AI + Product Analytics
+- Conversion optimization systems
+- LLM-powered user journeys
 
-Here are some ideas to get you started:
+What I’ve done:
+- Improved conversion by 7% on a 1M+ MAU platform
+- Built KPI tracking systems using SQL + Power BI
+- Designed AI-aware product flows with monitoring (drift, precision, latency)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m building now:
+- AI agents for user journey optimisation
+- LLM-based assistants for product decisioning
+
+Featured Projects ↓
