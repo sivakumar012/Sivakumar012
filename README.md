@@ -29,16 +29,7 @@ JIRA, Confluence, Figma, Notion
 **Tech & Platforms**  
 AWS, Azure, Microservices, CI/CD, Kubernetes  
 
-## A bit more about me
-
-I enjoy talking to users, breaking down problems, and figuring out what actually matters.
-
-And maybe it’s just me, but I’ve always believed:
-
 " Good products aren’t built from features. They’re built from understanding behaviour. "
 
-## Let’s connect
-
-- 📍 Chennai / Bangalore  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivakumar1natarajan/)  
 - 📧 sivakumar012@live.com 
