@@ -11,7 +11,7 @@ I build data-driven product experiences that actually move metrics. Over the las
 ## What I’m building now
 I’m currently exploring how AI can move beyond hype into real product value:
 
-- Building CampusCircle for students https://campuscircle.fluxrn.com/
+- Building Campus360 for students https://campus360.fluxrn.com/ (https://www.linkedin.com/company/campuss360/about/?viewAsMember=true)
 - AI agents for **product analytics and decisioning**
 - LLM-powered assistants for **user journey optimisation**
 - Systems that connect **user behaviour → insights → actions**
